@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Skeptischergeist
+- 👋 Hi, I’m Guilherme Corrêa, a.k.a. @Skeptischergeist
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Network security
 - ⚡ Fun fact: I'm also a philosopher
 
 <!---
