@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guilherme Corrêa, a.k.a. Skept or @Skeptischergeist
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning Python and cybersecurity
-- ⚡ Curious fact: I'm also a philosopher
+- 👀 I’m interested in programming, especially Python and back-end development
+- 🌱 I’m currently diving into Python and cybersecurity
+- ⚡ Fun facts: I have a degree in Philosophy and I play guitar
 
 <!---
 Skeptischergeist/Skeptischergeist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
